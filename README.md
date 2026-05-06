@@ -72,11 +72,11 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 
 <br/>
 
-**Emerson DeltaV DCS** — Configuration and deployment of Distributed Control System solutions for process automation; loop tuning, alarm management, and real-time process monitoring in continuous manufacturing environments.
+- **Emerson DeltaV DCS** — Configuration and deployment of Distributed Control System solutions for process automation; loop tuning, alarm management, and real-time process monitoring in continuous manufacturing environments.
 
-**Rockwell Automation FactoryTalk SCADA** — Design and implementation of SCADA systems for supervisory control, data acquisition, historian integration, and real-time dashboards in industrial facilities.
+- **Rockwell Automation FactoryTalk SCADA** — Design and implementation of SCADA systems for supervisory control, data acquisition, historian integration, and real-time dashboards in industrial facilities.
 
-**Allen-Bradley PLC (Rockwell)** — Programming and commissioning of Allen-Bradley PLCs (ControlLogix, CompactLogix) using Studio 5000; Ladder Logic, Function Block Diagram (FBD), and Structured Text (ST) per IEC 61131-3 standards.
+- **Allen-Bradley PLC (Rockwell)** — Programming and commissioning of Allen-Bradley PLCs (ControlLogix, CompactLogix) using Studio 5000; Ladder Logic, Function Block Diagram (FBD), and Structured Text (ST) per IEC 61131-3 standards.
 
 ---
 
