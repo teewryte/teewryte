@@ -13,11 +13,11 @@
 <!-- Profile Views & Social Badges -->
 <img src="https://komarev.com/ghpvc/?username=theophilus-uwoghiren&style=for-the-badge&color=2ecc71&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<a href="mailto:theophilus@example.com">
+<a href="mailto:theo.uwoghiren@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-2ecc71?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/theophilus-uwoghiren">
+<a href="https://linkedin.com/in/teewryte">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 name        : Theophilus Uwoghiren
@@ -35,30 +35,30 @@ passion     : Building intelligent, adaptive systems that bridge the physical an
 philosophy  : "Engineer systems that think, adapt, and act; optimizing daily living."
 ```
 
-I design and build **intelligent systems** across industrial, agricultural, and autonomous domains, integrating cutting-edge AI/ML with embedded hardware, control systems, and real-time robotics platforms. My work spans the full stack: from low-level firmware and PLCs to high-level machine learning pipelines and full-stack applications.
+I design and build **intelligent systems** across industrial, agricultural, and autonomous domains, integrating cutting-edge AI/ML with embedded hardware, control systems, and real-time robotics platforms. I work across embedded systems, firmware, and PLCs, while also building machine learning pipelines and full-stack software solutions.
 
 ---
 
-## 🎯 Core Competencies
+## Interests and Competencies
 
 <div align="center">
 
 | Domain | Focus Areas |
 |:---|:---|
-| 🤖 **AI / ML Systems** | Predictive modeling, computer vision, edge AI, deep learning pipelines |
-| ⚙️ **Industrial Automation** | DCS, SCADA, PLC programming, process control, HMI design |
-| 🌿 **Smart Agro-Infrastructure** | Precision agriculture, IoT sensors, yield prediction, crop monitoring |
-| 🚗 **Autonomous Systems** | Perception, navigation, sensor fusion, decision-making |
-| 📡 **Embedded Systems** | Firmware development, RTOS, microcontrollers, real-time control |
-| 🤖 **Robotics** | ROS/ROS 2, motion planning, SLAM, manipulation |
-| 🏗️ **Software Development** | Full-stack development, backend APIs, system architecture |
-| ⚡ **Smart Systems** | IoT integration, edge computing, digital twins |
+| **AI / ML Systems** | Predictive modeling, computer vision, edge AI, deep learning pipelines |
+| **Industrial Automation** | DCS, SCADA, PLC programming, process control, HMI design |
+| **Smart Agro-Infrastructure** | Precision agriculture, IoT sensors, yield prediction, crop monitoring |
+| **Autonomous Systems** | Perception, navigation, sensor fusion, decision-making |
+| **Embedded Systems** | Firmware development, RTOS, microcontrollers, real-time control |
+| **Robotics** | ROS/ROS 2, motion planning, SLAM, manipulation |
+| **Software Development** | Full-stack development, backend APIs, system architecture |
+| **Smart Systems** | IoT integration, edge computing, digital twins |
 
 </div>
 
 ---
 
-## 🏭 Industrial Automation & Control Systems
+## Technical Focus
 
 <div align="center">
 <img src="https://img.shields.io/badge/Emerson-DeltaV%20DCS-003366?style=for-the-badge&logo=databricks&logoColor=white"/>
@@ -80,7 +80,7 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 
 ---
 
-## 🌾 AgTech & Precision Agriculture
+## AgTech & Precision Agriculture
 
 <div align="center">
 <img src="https://img.shields.io/badge/Precision%20Agriculture-IoT%20%26%20AI-2ecc71?style=for-the-badge&logo=leaflet&logoColor=white"/>
@@ -94,16 +94,16 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 
 <br/>
 
-- 🛰️ **Remote Sensing & GIS** — Satellite/drone imagery analysis, NDVI mapping, and geospatial data pipelines for crop health assessment
-- 📊 **Yield & Disease Prediction** — ML models trained on soil, weather, and phenological data for precision decision support
-- 💧 **Smart Irrigation Systems** — IoT sensor networks for soil moisture monitoring and automated irrigation scheduling
-- 🌡️ **Microclimate Monitoring** — Distributed sensor arrays for real-time environmental data collection in agro-ecosystems
-- 🤖 **Agricultural Robotics** — Autonomous navigation and manipulation systems for planting, monitoring, and harvesting tasks
-- 🔗 **Farm Management Integration** — Data pipelines connecting field sensors, edge gateways, and cloud analytics platforms
+- **Remote Sensing & GIS** — Satellite/drone imagery analysis, NDVI mapping, and geospatial data pipelines for crop health assessment
+- **Yield & Disease Prediction** — ML models trained on soil, weather, and phenological data for precision decision support
+- **Smart Irrigation Systems** — IoT sensor networks for soil moisture monitoring and automated irrigation scheduling
+- **Microclimate Monitoring** — Distributed sensor arrays for real-time environmental data collection in agro-ecosystems
+- **Agricultural Robotics** — Autonomous navigation and manipulation systems for planting, monitoring, and harvesting tasks
+- **Farm Management Integration** — Data pipelines connecting field sensors, edge gateways, and cloud analytics platforms
 
 ---
 
-## 🤖 Robotics & Real-Time Systems
+## Robotics & Real-Time Systems
 
 <div align="center">
 <img src="https://img.shields.io/badge/ROS-ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
@@ -119,17 +119,17 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 
 | Capability | Tools & Technologies |
 |:---|:---|
-| 🧭 **Robot Operating System** | ROS 2 (Humble/Iron), nodes, topics, services, actions, transforms (TF2) |
-| 🗺️ **Navigation & SLAM** | Nav2, Cartographer, AMCL, costmap configuration, path planning |
-| ⏱️ **Real-Time OS** | FreeRTOS, Zephyr RTOS, task scheduling, interrupt handling, IPC |
-| 👁️ **Perception** | LiDAR, depth cameras, IMU fusion, point cloud processing (PCL) |
-| 🦾 **Manipulation** | MoveIt 2, inverse kinematics, trajectory planning, gripper control |
-| 🌐 **Simulation** | Gazebo, RViz 2, URDF/SDF modelling, hardware-in-the-loop (HIL) |
-| 📡 **Communication** | DDS (Fast-DDS), CAN bus, UART, SPI, I2C, MQTT |
+| **Robot Operating System** | ROS 2 (Humble/Iron), nodes, topics, services, actions, transforms (TF2) |
+| **Navigation & SLAM** | Nav2, Cartographer, AMCL, costmap configuration, path planning |
+| **Real-Time OS** | FreeRTOS, Zephyr RTOS, task scheduling, interrupt handling, IPC |
+| **Perception** | LiDAR, depth cameras, IMU fusion, point cloud processing (PCL) |
+| **Manipulation** | MoveIt 2, inverse kinematics, trajectory planning, gripper control |
+| **Simulation** | Gazebo, RViz 2, URDF/SDF modelling, hardware-in-the-loop (HIL) |
+| **Communication** | DDS (Fast-DDS), CAN bus, UART, SPI, I2C, MQTT |
 
 ---
 
-## 💻 Programming Languages
+## Programming Languages
 
 <div align="center">
 
@@ -151,9 +151,9 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 
 ---
 
-## 🧰 Technology Stack
+## Technology Stack
 
-### 🤖 AI / ML & Data Science
+### AI / ML & Data Science
 <div align="center">
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -170,7 +170,7 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 
 </div>
 
-### 🖥️ Backend & APIs
+### Backend & APIs
 <div align="center">
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -184,7 +184,7 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 
 </div>
 
-### 🌐 Frontend
+### Frontend
 <div align="center">
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -197,7 +197,7 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 
 </div>
 
-### 🗄️ Databases & Cloud
+### Databases & Cloud
 <div align="center">
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -214,41 +214,41 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theophilus-uwoghiren&show_icons=true&theme=dark&bg_color=0D1117&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff&border_color=2ecc71&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=teewryte&show_icons=true&theme=dark&bg_color=0D1117&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff&border_color=2ecc71&hide_border=false&count_private=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theophilus-uwoghiren&layout=compact&theme=dark&bg_color=0D1117&title_color=2ecc71&text_color=ffffff&border_color=2ecc71&hide_border=false&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teewryte&layout=compact&theme=dark&bg_color=0D1117&title_color=2ecc71&text_color=ffffff&border_color=2ecc71&hide_border=false&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=theophilus-uwoghiren&theme=dark&background=0D1117&border=2ecc71&ring=2ecc71&fire=27ae60&currStreakLabel=2ecc71&sideLabels=2ecc71&dates=ffffff&stroke=2ecc71" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=teewryte&theme=dark&background=0D1117&border=2ecc71&ring=2ecc71&fire=27ae60&currStreakLabel=2ecc71&sideLabels=2ecc71&dates=ffffff&stroke=2ecc71" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theophilus-uwoghiren&bg_color=0D1117&color=2ecc71&line=27ae60&point=ffffff&area=true&hide_border=false&border_color=2ecc71" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=teewryte&bg_color=0D1117&color=2ecc71&line=27ae60&point=ffffff&area=true&hide_border=false&border_color=2ecc71" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=theophilus-uwoghiren&theme=darkhub&no-frame=false&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=teewryte&theme=darkhub&no-frame=false&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
 
 </div>
 
 ---
 
-## 💡 What I'm Working On
+## What I'm Working On
 
 ```python
 current_focus = {
