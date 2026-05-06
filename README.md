@@ -39,7 +39,7 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 
 ---
 
-## Interests and Competencies
+## Technical Focus
 
 <div align="center">
 
@@ -58,7 +58,7 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 
 ---
 
-## Technical Focus
+## Industrial Automation & Control Systems
 
 <div align="center">
 <img src="https://img.shields.io/badge/Emerson-DeltaV%20DCS-003366?style=for-the-badge&logo=databricks&logoColor=white"/>
@@ -221,6 +221,12 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teewryte&show_icons=true&theme=dark&bg_color=0D1117&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff&border_color=2ecc71&hide_border=false&count_private=true"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teewryte&layout=compact&theme=dark&bg_color=0D1117&title_color=2ecc71&text_color=ffffff&border_color=2ecc71&hide_border=false&langs_count=8"/>
+
+<!-- Stats Card -->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=teewryte&show_icons=true&theme=dark&bg_color=0D1117&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff&border_color=2ecc71&hide_border=false&count_private=true"/>
+
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teewryte&layout=compact&theme=dark&bg_color=0D1117&title_color=2ecc71&text_color=ffffff&border_color=2ecc71&hide_border=false&langs_count=8"/>
 
 </div>
 
