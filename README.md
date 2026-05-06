@@ -218,13 +218,6 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 
 <div align="center">
 
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teewryte&layout=compact&theme=dark&bg_color=0D1117&title_color=2ecc71&text_color=ffffff&border_color=2ecc71&hide_border=false&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=teewryte&theme=dark&background=0D1117&border=2ecc71&ring=2ecc71&fire=27ae60&currStreakLabel=2ecc71&sideLabels=2ecc71&dates=ffffff&stroke=2ecc71" alt="GitHub Streak"/>
 
 </div>
