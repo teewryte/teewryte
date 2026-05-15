@@ -35,7 +35,7 @@ passion     : Building intelligent, adaptive systems that bridge the physical an
 philosophy  : "Engineer systems that think, adapt, and act; optimizing daily living."
 ```
 
-I design and build **intelligent systems** across industrial, agricultural, and autonomous domains, integrating cutting-edge AI/ML with embedded hardware, control systems, and real-time robotics platforms. I work across embedded systems, firmware, and PLCs, while also building machine learning pipelines and full-stack software solutions.
+I design and build **intelligent systems** across industrial, agricultural, and autonomous domains, integrating cutting-edge AI/ML with embedded hardware and control systems. I work across embedded systems, firmware, and PLCs, while also building machine learning pipelines and full-stack software solutions.
 
 ---
 
@@ -50,7 +50,6 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 | **Smart Agro-Infrastructure** | Precision agriculture, IoT sensors, yield prediction, crop monitoring |
 | **Autonomous Systems** | Perception, navigation, sensor fusion, decision-making |
 | **Embedded Systems** | Firmware development, RTOS, microcontrollers, real-time control |
-| **Robotics** | ROS/ROS 2, motion planning, SLAM, manipulation |
 | **Software Development** | Full-stack development, backend APIs, system architecture |
 | **Smart Systems** | IoT integration, edge computing, digital twins |
 
@@ -98,34 +97,7 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 - **Yield & Disease Prediction** — ML models trained on soil, weather, and phenological data for precision decision support
 - **Smart Irrigation Systems** — IoT sensor networks for soil moisture monitoring and automated irrigation scheduling
 - **Microclimate Monitoring** — Distributed sensor arrays for real-time environmental data collection in agro-ecosystems
-- **Agricultural Robotics** — Autonomous navigation and manipulation systems for planting, monitoring, and harvesting tasks
 - **Farm Management Integration** — Data pipelines connecting field sensors, edge gateways, and cloud analytics platforms
-
----
-
-## Robotics & Real-Time Systems
-
-<div align="center">
-<img src="https://img.shields.io/badge/ROS-ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/RTOS-FreeRTOS%20%7C%20Zephyr-00979D?style=for-the-badge&logo=freertos&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Navigation-SLAM%20%7C%20Nav2-FF6B35?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Gazebo-Simulation-E87722?style=for-the-badge"/>
-</div>
-
-<br/>
-
-| Capability | Tools & Technologies |
-|:---|:---|
-| **Robot Operating System** | ROS 2 (Humble/Iron), nodes, topics, services, actions, transforms (TF2) |
-| **Navigation & SLAM** | Nav2, Cartographer, AMCL, costmap configuration, path planning |
-| **Real-Time OS** | FreeRTOS, Zephyr RTOS, task scheduling, interrupt handling, IPC |
-| **Perception** | LiDAR, depth cameras, IMU fusion, point cloud processing (PCL) |
-| **Manipulation** | MoveIt 2, inverse kinematics, trajectory planning, gripper control |
-| **Simulation** | Gazebo, RViz 2, URDF/SDF modelling, hardware-in-the-loop (HIL) |
-| **Communication** | DDS (Fast-DDS), CAN bus, UART, SPI, I2C, MQTT |
 
 ---
 
