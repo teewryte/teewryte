@@ -46,12 +46,8 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 | Domain | Focus Areas |
 |:---|:---|
 | **AI / ML Systems** | Predictive modeling, computer vision, edge AI, deep learning pipelines |
-| **Industrial Automation** | DCS, SCADA, PLC programming, process control, HMI design |
-| **Smart Agro-Infrastructure** | Precision agriculture, IoT sensors, yield prediction, crop monitoring |
-| **Autonomous Systems** | Perception, navigation, sensor fusion, decision-making |
 | **Embedded Systems** | Firmware development, RTOS, microcontrollers, real-time control |
-| **Software Development** | Full-stack development, backend APIs, system architecture |
-| **Smart Systems** | IoT integration, edge computing, digital twins |
+| **Software Development** | System architecture, backend APIs, Full-stack development |
 
 </div>
 
