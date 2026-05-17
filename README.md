@@ -24,6 +24,27 @@
 </div>
 
 ---
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0a1628,70:0d3b6e,100:1a6b3c&height=200&section=header&text=Theophilus%20Uwoghiren&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Intelligent%20Systems%20Engineer&descSize=18&descAlignY=60&descColor=4ade80&animation=fadeIn" width="100%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=750&lines=AI%2FML+Systems+%7C+Embedded+Intelligence;LLM+Systems+%7C+Agentic+AI+Architecture;MLOps+%7C+Model+Lifecycle+%26+Deployment;Software+Engineering+%7C+DevOps+%26+CI%2FCD;Building+systems+that+think%2C+learn%2C+and+act." alt="Typing SVG" />
+</a>
+<br/><br/>
+ 
+<img src="https://komarev.com/ghpvc/?username=teewryte&style=for-the-badge&color=16a34a&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<a href="https://linkedin.com/in/theophilus-uwoghiren">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:theophilus@example.com">
+  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-16a34a?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</div>
+---
+
+
+---
 
 ## About Me
 
@@ -178,14 +199,6 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 ---
 
 ## GitHub Analytics
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=teewryte&show_icons=true&theme=dark&bg_color=0D1117&title_color=4ade80&icon_color=4ade80&text_color=ffffff&border_color=4ade80&count_private=true"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teewryte&layout=compact&theme=dark&bg_color=0D1117&title_color=4ade80&text_color=ffffff&border_color=4ade80&langs_count=8"/>
-
-</div>
 
 <div align="center">
 
