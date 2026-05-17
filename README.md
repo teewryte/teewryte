@@ -123,6 +123,7 @@ I train ML models, deploy them into production, and build end-to-end intelligent
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
 
 </div>
 
@@ -160,6 +161,7 @@ I train ML models, deploy them into production, and build end-to-end intelligent
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
 </div>
 
 ### DevOps & Infrastructure
@@ -173,6 +175,71 @@ I train ML models, deploy them into production, and build end-to-end intelligent
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+### Embedded Systems & Hardware
+<div align="center">
+
+<img src="https://img.shields.io/badge/STM32%20%7C%20ESP32%20%7C%20nRF52-MCU%20%26%20Firmware-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FPGA-Verilog%20%7C%20VHDL%20%7C%20HLS-6E2594?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Edge%20AI-TFLite%20%7C%20Edge%20Impulse%20%7C%20TinyML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Protocols-CAN%20%7C%20SPI%20%7C%20I2C%20%7C%20UART-006DB3?style=for-the-badge"/>
+  
+</div>
+
+### Autonomous & Industrial Intelligence
+<div align="center">
+  
+<img src="https://img.shields.io/badge/Control%20Theory-PID%20%7C%20MPC%20%7C%20State%20Machines-1A237E?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Digital%20Twin-Simulation%20%7C%20HIL%20Testing-0288D1?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/IIoT%20Protocols-MQTT%20%7C%20OPC--UA%20%7C%20Modbus-00695C?style=for-the-badge&logo=mqtt&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Predictive%20Maintenance-Anomaly%20Detection%20%7C%20PHM-BF360C?style=for-the-badge"/>
+  
+</div>
+
+### Robotics & Real-Time Systems
+<div align="center">
+  
+<img src="https://img.shields.io/badge/ROS-ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RTOS-FreeRTOS%20%7C%20Zephyr-00979D?style=for-the-badge&logo=freertos&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Navigation-SLAM%20%7C%20Nav2-FF6B35?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Gazebo-Simulation-E87722?style=for-the-badge"/>
+
+</div>
+
+### AgTech & Precision Agriculture
+<div align="center">
+  
+<img src="https://img.shields.io/badge/Precision%20Agriculture-IoT%20%26%20AI-2ecc71?style=for-the-badge&logo=leaflet&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Crop%20Monitoring-Computer%20Vision-27ae60?style=for-the-badge&logo=opencv&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Yield%20Prediction-ML%20Models-1abc9c?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Smart%20Irrigation-Sensor%20Fusion-16a085?style=for-the-badge"/>
+
+</div>
+
+### Industrial Automation & Control Systems
+<div align="center">
+
+<img src="https://img.shields.io/badge/Emerson-DeltaV%20DCS-003366?style=for-the-badge&logo=databricks&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Rockwell-FactoryTalk%20SCADA-CC0000?style=for-the-badge&logo=rockwellautomation&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Allen--Bradley-PLC%20Programming-CC0000?style=for-the-badge&logo=rockwellautomation&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/IEC%2061131--3-Ladder%20%7C%20FBD%20%7C%20ST-FF6600?style=for-the-badge"/>
 
 </div>
 
