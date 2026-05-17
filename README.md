@@ -23,26 +23,6 @@
 
 </div>
 
----
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0a1628,70:0d3b6e,100:1a6b3c&height=200&section=header&text=Theophilus%20Uwoghiren&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Intelligent%20Systems%20Engineer&descSize=18&descAlignY=60&descColor=4ade80&animation=fadeIn" width="100%"/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=750&lines=AI%2FML+Systems+%7C+Embedded+Intelligence;LLM+Systems+%7C+Agentic+AI+Architecture;MLOps+%7C+Model+Lifecycle+%26+Deployment;Software+Engineering+%7C+DevOps+%26+CI%2FCD;Building+systems+that+think%2C+learn%2C+and+act." alt="Typing SVG" />
-</a>
-<br/><br/>
- 
-<img src="https://komarev.com/ghpvc/?username=teewryte&style=for-the-badge&color=16a34a&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<a href="https://linkedin.com/in/theophilus-uwoghiren">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:theophilus@example.com">
-  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-16a34a?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</div>
----
-
 
 ---
 
@@ -56,8 +36,7 @@ passion     : Building intelligent, adaptive systems that bridge the physical an
 philosophy  : "Engineer systems that think, adapt, and act; optimizing daily living."
 ```
 
-I design and build **intelligent systems** across industrial, agricultural, and autonomous domains, integrating cutting-edge AI/ML with embedded hardware and control systems. I work across embedded systems, firmware, and PLCs, while also building machine learning pipelines and full-stack software solutions.
-
+I train machine learning models, deploy them into production, and connect them to real-world hardware, software, and workflows. My engineer **end-to-end intelligent systems**, covering the full ML lifecycle, from research and experimentation to infrastructure, automation, and continuous deployment. I’m especially drawn to where intelligence meets real hardware, turning models into tools that operate reliably across devices, APIs, and real-world environments.
 ---
 
 ## Technical Focus
