@@ -97,6 +97,32 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 
 ---
 
+## Autonomous Logistics & Surveillance Systems
+
+<div align="center">
+<img src="https://img.shields.io/badge/ROS-ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RTOS-FreeRTOS%20%7C%20Zephyr-00979D?style=for-the-badge&logo=freertos&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Navigation-SLAM%20%7C%20Nav2-FF6B35?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Gazebo-Simulation-E87722?style=for-the-badge"/>
+</div>
+
+<br/>
+
+| Capability | Tools & Technologies |
+|:---|:---|
+| **Robot Operating System** | ROS 2 (Humble/Iron), nodes, topics, services, actions, transforms (TF2) |
+| **Navigation & SLAM** | Nav2, Cartographer, AMCL, costmap configuration, path planning |
+| **Real-Time OS** | FreeRTOS, Zephyr RTOS, task scheduling, interrupt handling, IPC |
+| **Perception** | LiDAR, depth cameras, IMU fusion, point cloud processing (PCL) |
+| **Manipulation** | MoveIt 2, inverse kinematics, trajectory planning, gripper control |
+| **Simulation** | Gazebo, RViz 2, URDF/SDF modelling, hardware-in-the-loop (HIL) |
+| **Communication** | DDS (Fast-DDS), CAN bus, UART, SPI, I2C, MQTT |
+
+---
+
 ## Programming Languages
 
 <div align="center">
