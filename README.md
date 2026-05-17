@@ -37,6 +37,7 @@ philosophy  : "Engineer systems that think, adapt, and act; optimizing daily liv
 ```
 
 I train machine learning models, deploy them into production, and connect them to real-world hardware, software, and workflows. My engineer **end-to-end intelligent systems**, covering the full ML lifecycle, from research and experimentation to infrastructure, automation, and continuous deployment. I’m especially drawn to where intelligence meets real hardware, turning models into tools that operate reliably across devices, APIs, and real-world environments.
+
 ---
 
 ## Technical Focus
