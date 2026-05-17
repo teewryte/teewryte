@@ -57,86 +57,10 @@ I design and build **intelligent systems** across industrial, agricultural, and 
 
 ---
  
-## ⚙️ MLOps
- 
-Bridging the gap between notebook experiments and reliable production ML systems.
+## Languages & Core Stack
  
 <div align="center">
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
-<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white"/>
-<img src="https://img.shields.io/badge/BentoML-FF6384?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-</div>
-<br/>
-| Capability | Tools |
-|:---|:---|
-| **Experiment Tracking** | MLflow, Weights & Biases, TensorBoard |
-| **Data Versioning** | DVC, Delta Lake |
-| **Model Registry & Serving** | MLflow Registry, BentoML, TorchServe, Triton Inference Server |
-| **Pipeline Orchestration** | Apache Airflow, Prefect, Kubeflow Pipelines |
-| **Monitoring & Drift** | Evidently AI, WhyLogs, Prometheus + Grafana |
-| **Feature Stores** | Feast, Tecton |
- 
----
- 
-## 🏗️ Software Engineering
- 
-```
-Clean architecture. Scalable APIs. Systems designed to last.
-```
- 
-- **API Design** — RESTful and GraphQL APIs; async patterns, rate limiting, auth (JWT/OAuth2)
-- **System Architecture** — Microservices, event-driven design, domain-driven design (DDD)
-- **Backend Development** — FastAPI, Django, Flask, Node.js/Express; async I/O, background workers
-- **Database Design** — Relational (PostgreSQL, MySQL), NoSQL (MongoDB, Redis), vector DBs (FAISS, Chroma, Pinecone)
-- **Testing** — Unit, integration, and end-to-end testing; pytest, hypothesis testing, test-driven development
----
- 
-## 🚀 DevOps & Infrastructure
- 
-```
-If it's not automated, it's technical debt.
-```
- 
-<div align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</div>
-<br/>
-| Capability | Tools & Practices |
-|:---|:---|
-| **Containerisation** | Docker, Docker Compose, multi-stage builds |
-| **Orchestration** | Kubernetes, Helm charts, autoscaling policies |
-| **CI/CD Pipelines** | GitHub Actions, GitLab CI, automated testing and deployment |
-| **Infrastructure as Code** | Terraform, Ansible |
-| **Cloud Platforms** | AWS (EC2, S3, Lambda, SageMaker), cloud-agnostic design |
-| **Observability** | Structured logging, distributed tracing, Prometheus, Grafana |
-| **Security** | Secrets management, container hardening, RBAC, vulnerability scanning |
- 
----
- 
-## 💻 Languages & Core Stack
- 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql&theme=dark"/>
-<br/><br/>
- 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
-<br/>
+
 ### Full Stack at a Glance
  
 <div align="center">
@@ -255,6 +179,33 @@ If it's not automated, it's technical debt.
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+### DevOps & Infrastructure
+<div align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</div>
+
+### MLOps
+<div align="center">
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
+<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white"/>
+<img src="https://img.shields.io/badge/BentoML-FF6384?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 
 </div>
 
