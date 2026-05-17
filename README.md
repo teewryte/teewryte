@@ -178,17 +178,16 @@ I train ML models, deploy them into production, and build end-to-end intelligent
 
 </div>
 
-### Embedded/Autonomous Systems
+### Embedded Intelligence & Autonomous Systems
 <div align="center">
 
 <img src="https://img.shields.io/badge/STM32%20%7C%20ESP32-MCU%20%26%20Firmware-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/IIoT%20Protocols-MQTT%20%7C%20OPC--UA%20%7C%20Modbus-00695C?style=for-the-badge&logo=mqtt&logoColor=white"/>
+<img src="https://img.shields.io/badge/RTOS-FreeRTOS%20%7C%20Zephyr-00979D?style=for-the-badge&logo=freertos&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/ROS-ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/RTOS-FreeRTOS%20%7C%20Zephyr-00979D?style=for-the-badge&logo=freertos&logoColor=white"/>
-&nbsp;
+
 
 </div>
 
