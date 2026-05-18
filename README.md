@@ -76,7 +76,7 @@ I train ML models, deploy them into production, and build end-to-end intelligent
 
 ## Technology Stack
 
-### AI / ML & Scientific Computing
+### AI / ML
 <div align="center">
   
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
