@@ -58,7 +58,7 @@ I train ML models, deploy them into production, and build end-to-end intelligent
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,js&theme=dark" />
 
 <br/><br/>
 
@@ -67,8 +67,6 @@ I train ML models, deploy them into production, and build end-to-end intelligent
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </div>
 
