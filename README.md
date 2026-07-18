@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=false&width=700&lines=AI%2FML+Systems+%7C+Embedded+Intelligence;MLOps+%7C+Model+Lifecycle+%26+Deployment" alt="Typing SVG" />
 </a>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=780&lines=Product+Strategy+·+Design+·+Engineering+·+AI%2FML;I+build+products+for+real+users.;React+·+Flutter+·+FastAPI+·+LLM+Systems+·+Agentic+AI;Working+backwards+from+what+users+actually+need.;Outcomes+over+implementation." alt="Typing SVG" />
+</a>
+
 <br/>
 
 <!-- Profile Views & Social Badges -->
@@ -70,7 +74,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 ---
 
-## Programming Languages
+## Languages
 
 <div align="center">
 
@@ -90,9 +94,9 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 ---
 
-## Technology Stack
+## Stack
 
-### Frontend — React (Web)
+### React (Web)
 
 <div align="center">
 
@@ -110,7 +114,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 </div>
 
-### Frontend — Flutter (Cross-Platform)
+### Flutter (Cross-Platform)
 
 <div align="center">
 
@@ -124,7 +128,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 </div>
 
-### Backend — FastAPI
+### FastAPI (Backend)
 
 <div align="center">
 
@@ -139,7 +143,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 </div>
 
-### Databases & Storage
+### Database / Storage
 
 <div align="center">
 
@@ -154,7 +158,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 </div>
 
-### DevOps & Infrastructure
+### DevOps / Infrastructure
 
 <div align="center">
 
@@ -169,8 +173,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 </div>
 
-## AI / ML
-### Core ML & Data Science
+### Core ML / Data Science
 
 <div align="center">
 
