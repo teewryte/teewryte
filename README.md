@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?
-font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&multiline=false&width=700&lines=Product+Strategy+·+Design+·+Engineering+·+AI%2FML;I+build+products+for+real+users.;React+·+Flutter+·+FastAPI+·+LLM+Systems+·+Agentic+AI;Working+backwards+from+what+users+actually+need.;Outcomes+over+implementation." alt="Typing SVG" />
+font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=false&width=700&lines=Product+Strategy+·+Design+·+Engineering+·+AI%2FML;I+build+products+for+real+users.;React+·+Flutter+·+FastAPI+·+LLM+Systems+·+Agentic+AI;Working+backwards+from+what+users+actually+need.;Outcomes+over+implementation." alt="Typing SVG" />
 </a>
 
 
@@ -92,9 +92,9 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 ---
 
-## Stack
+## Development
 
-### React (Web)
+### Web
 
 <div align="center">
 
@@ -109,7 +109,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 </div>
 
-### Flutter (Cross-Platform)
+### Cross-Platform
 
 <div align="center">
 
@@ -123,7 +123,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 </div>
 
-### FastAPI (Backend)
+### Backend
 
 <div align="center">
 
@@ -138,7 +138,9 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 </div>
 
-### Database / Storage
+---
+## Infrastructure
+### Data Store
 
 <div align="center">
 
@@ -153,7 +155,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 </div>
 
-### DevOps / Infrastructure
+### DevOps
 
 <div align="center">
 
@@ -167,6 +169,10 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
+
+---
+
+### AI / ML
 
 ### Core ML / Data Science
 
