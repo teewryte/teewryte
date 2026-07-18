@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d62,60:1e6091,100:2ecc71&height=200&section=header&text=Theophilus%20Uwoghiren&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Intelligent%20Systems%20Engineer&descSize=18&descAlignY=60&descColor=a8d8a8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d62,60:1e6091,100:2ecc71&height=200&section=header&text=Theophilus%20Uwoghiren&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Product%20Engineer&descSize=18&descAlignY=60&descColor=a8d8a8&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -30,25 +30,41 @@
 
 ```yaml
 name        : Theophilus Uwoghiren
-role        : Intelligent Systems Engineer
-focus       : AI/ML · MLOps · Embedded Intelligence
-passion     : Building intelligent, adaptive systems that bridge the physical and digital worlds
-philosophy  : "Engineer systems that think, adapt, and act; optimizing daily living."
+role        : Product Engineer
+focus       : Product Strategy · Product Design · Product Engineering · AI/ML
+mindset     : Work backwards from what users need. Then engineer everything in between.
+approach    : Outcomes over implementation. Users over abstractions. Impact over activity
 ```
 
-I train ML models, deploy them into production, and build end-to-end intelligent systems that connect AI with real-world hardware, software, and workflows. I’m especially drawn to where intelligence meets physical systems, turning models into reliable tools that operate across devices, APIs, and real-world environments.
+I'm a **Product Engineer**, I own the full arc of what makes a product successful. I don't just write code; I think about *why* something should be built, *how* it should feel to use, and *what* it takes to ship it reliably. Then I build it. I work across four interconnected pillars: shaping product strategy, crafting thoughtful design, engineering robust full-stack systems, and embedding AI intelligence where it creates the most leverage. I care about the impact of what I ship on the people who use it, not just whether the build passes.
 
 ---
 
-## Technical Focus
+## Pillars
 
 <div align="center">
 
 | Domain | Focus Areas |
 |:---|:---|
-| **AI / ML Systems** | Model design, training pipelines, deep learning, computer vision, NLP |
-| **MLOps** | Experiment tracking, model registry, CI/CD for ML, monitoring & drift detection |
-| **Embedded Intelligence** | Edge AI, TinyML, firmware-level inference, MCU/DSP deployment |
+| **Product Strategy** | Discovery, user research, roadmaps, prioritisation, metrics, growth |
+| **Product Design** | UI/UX, design systems, prototyping, accessibility, interaction design |
+| **Product Engineering** | React, Flutter, FastAPI, databases, DevOps, system architecture |
+| **AI / ML** | ML systems, LLMs, Agentic AI, RAG pipelines, MLOps |
+
+</div>
+
+---
+
+## Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/FigJam-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maze-6E40C9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zeroheight-1A1A2E?style=for-the-badge&logoColor=white"/>
 
 </div>
 
@@ -58,15 +74,17 @@ I train ML models, deploy them into production, and build end-to-end intelligent
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,dart,sql,cpp,c&theme=dark"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 
 </div>
 
@@ -74,21 +92,117 @@ I train ML models, deploy them into production, and build end-to-end intelligent
 
 ## Technology Stack
 
-### AI / ML
+### Frontend — React (Web)
+
 <div align="center">
-  
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white"/>
+
+</div>
+
+### Frontend — Flutter (Cross-Platform)
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/GetX-6DB33F?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+
+</div>
+
+### Backend — FastAPI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Alembic-5C3EE8?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+
+</div>
+
+### Databases & Storage
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chroma-FF6B35?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+### DevOps & Infrastructure
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+## AI / ML
+### Core ML & Data Science
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
+### LLM Systems
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-6E40C9?style=for-the-badge&logo=llamaindex&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logoColor=white"/>
+
+</div>
+
 ### MLOps
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
@@ -130,15 +244,15 @@ I train ML models, deploy them into production, and build end-to-end intelligent
 
 ---
 
-## What I'm Working On
+## Currently Building
 
 ```python
-current_focus = {
-    "research"    : "Edge AI for real-time agricultural anomaly detection",
-    "building"    : "IoT-enabled precision agriculture system for smart irrigation",
-    "integrating" : "DeltaV DCS with ML-driven predictive maintenance",
-    "exploring"   : "Digital twin architectures for smart farm systems",
-    "learning"    : "Reinforcement learning for adaptive process control"
+now = {
+    "shipping"  : "AI-powered product — React frontend · FastAPI backend · LLM reasoning layer",
+    "designing" : "Design system in Figma → React component library → Flutter port",
+    "exploring" : "Agentic RAG with long-term episodic memory for user-facing products",
+    "learning"  : "Product analytics: funnel modelling, retention curves, causal inference",
+    "reading"   : "Continuous Discovery Habits (Teresa Torres) · The Mom Test (Rob Fitzpatrick)"
 }
 ```
 
@@ -151,10 +265,10 @@ current_focus = {
 
 <br/>
 
-*"The best engineers don't just solve problems — they build systems that prevent them."*
+*"Work backwards from what users need. Then engineer everything in between."*
 
 <br/>
 
-**Let's build something intelligent together.**
+**Open to collaborations on products that solve real problems for real people.**
 
 </div>
