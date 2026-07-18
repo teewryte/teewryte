@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?
-font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=false&width=700&lines=AI%2FML+Systems+%7C+Embedded+Intelligence;MLOps+%7C+Model+Lifecycle+%26+Deployment" alt="Typing SVG" />
+font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=false&width=700&lines=Product+Strategy+·+Design+·+Engineering+·+AI%2FML;I+build+products+for+real+users.;React+·+Flutter+·+FastAPI+·+LLM+Systems+·+Agentic+AI;Working+backwards+from+what+users+actually+need.;Outcomes+over+implementation." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -89,7 +89,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 ## Development
 
-### Web
+#### Web
 
 <div align="center">
 
@@ -104,7 +104,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 </div>
 
-### Cross-Platform
+#### Cross-Platform
 
 <div align="center">
 
@@ -118,7 +118,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 </div>
 
-### Backend
+#### Backend
 
 <div align="center">
 
@@ -135,7 +135,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 ---
 ## Infrastructure
-### Data Store
+#### Data Store
 
 <div align="center">
 
@@ -150,7 +150,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 </div>
 
-### DevOps
+#### DevOps
 
 <div align="center">
 
@@ -167,9 +167,9 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 ---
 
-### AI / ML
+## AI / ML
 
-### Core ML / Data Science
+#### Core ML / Data Science
 
 <div align="center">
 
@@ -186,7 +186,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 </div>
 
-### LLM Systems
+#### LLM Systems
 
 <div align="center">
 
@@ -200,7 +200,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 </div>
 
-### MLOps
+#### MLOps
 
 <div align="center">
 
