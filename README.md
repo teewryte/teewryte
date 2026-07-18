@@ -6,8 +6,9 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?
-font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=780&lines=Product+Strategy+·+Design+·+Engineering+·+AI%2FML;I+build+products+for+real+users.;React+·+Flutter+·+FastAPI+·+LLM+Systems+·+Agentic+AI;Working+backwards+from+what+users+actually+need.;Outcomes+over+implementation." alt="Typing SVG" />
+font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&multiline=false&width=700&lines=Product+Strategy+·+Design+·+Engineering+·+AI%2FML;I+build+products+for+real+users.;React+·+Flutter+·+FastAPI+·+LLM+Systems+·+Agentic+AI;Working+backwards+from+what+users+actually+need.;Outcomes+over+implementation." alt="Typing SVG" />
 </a>
+
 
 <br/>
 
@@ -41,7 +42,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 ---
 
-## Pillars
+## Domain
 
 <div align="center">
 
@@ -105,9 +106,6 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white"/>
 
 </div>
 
