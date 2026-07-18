@@ -6,9 +6,8 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?
-font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=false&width=700&lines=Product+Strategy+·+Design+·+Engineering+·+AI%2FML;I+build+products+for+real+users.;React+·+Flutter+·+FastAPI+·+LLM+Systems+·+Agentic+AI;Working+backwards+from+what+users+actually+need.;Outcomes+over+implementation." alt="Typing SVG" />
+font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=false&width=700&lines=AI%2FML+Systems+%7C+Embedded+Intelligence;MLOps+%7C+Model+Lifecycle+%26+Deployment" alt="Typing SVG" />
 </a>
-
 
 <br/>
 
@@ -75,10 +74,6 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 ## Languages
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,dart,sql,cpp,c&theme=dark"/>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
