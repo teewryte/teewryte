@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?
-font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=false&width=700&lines=Product+Strategy+|+Design+|+Engineering+|+AI%2FML;I+build+products+for+real+users.;React+|+Flutter+|+FastAPI+|+LLM+Systems+|+Agentic+AI;Working+backwards+from+what+users+actually+need.;Outcomes+over+implementation." alt="Typing SVG" />
+font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=false&width=700&lines=Product+Strategy+%E2%80%A2+Design+%E2%80%A2+Engineering+%E2%80%A2+AI%2FML;I+build+products+for+real+users;React+%E2%80%A2+Flutter+%E2%80%A2+FastAPI+%E2%80%A2+LLM+Systems+%E2%80%A2+Agentic+AI;Working+backwards+from+what+users+actually+need;Outcomes+over+implementation" alt="Typing SVG" />
 </a>
 
 <br/>
