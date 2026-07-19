@@ -57,8 +57,8 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 ### Product
 <div align="center">
 
-<img src="https://img.shields.io/badge/Product%20Strategy-0D1117?style=for-the-badge&logoColor=4ade80"/>
-<img src="https://img.shields.io/badge/User%20Research-0D1117?style=for-the-badge&logoColor=4ade80"/>
+<img src="https://img.shields.io/badge/Product%20Strategy-1C3C3C?style=for-the-badge&logoColor=4ade80"/>
+<img src="https://img.shields.io/badge/User%20Research-1C3C3C?style=for-the-badge&logoColor=4ade80"/>
 <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 
@@ -132,7 +132,6 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LlamaIndex-6E40C9?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<br/>
 <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anthropic%20API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
