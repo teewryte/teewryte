@@ -288,7 +288,7 @@ current_focus = {
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,50:1e6091,100:0D1117&height=120&section=footer&text=Open%20to%20collaborations%20on%20products%20that%20solve%20real%20problems%20for%20real%20people.&fontSize=14&fontColor=ffffff&fontAlignY=60&desc=%C2%A9%202026%20Theophilus%20Uwoghiren&descAlignY=7&descSize=14&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,50:1e6091,100:0D1117&height=120&section=footer&text=Open%20to%20collaborations%20on%20products%20that%20solve%20real%20problems%20for%20real%20people.&fontSize=14&fontColor=ffffff&fontAlignY=-20&desc=%C2%A9%202026%20Theophilus%20Uwoghiren&descAlignY=7&descSize=14&descColor=ffffff" width="100%"/>
 </div>
 
 
