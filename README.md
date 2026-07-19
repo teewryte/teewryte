@@ -20,8 +20,9 @@
 <a href="https://linkedin.com/in/teewryte">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-[![Peerlist](https://github-readme-badge.peerlist.io/api/teewryte)](https://peerlist.io/teewryte)
-
+&nbsp;
+<a href=https://github-readme-badge.peerlist.io/api/teewryte)](https://peerlist.io/teewryte)>
+</a>
 </div>
 
 
