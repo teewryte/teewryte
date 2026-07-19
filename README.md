@@ -55,9 +55,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 
 ##  Technologies I'm Learning & Building With
 
-<div align="center">
-#### ──────────────────────── Product  ────────────────────────
-</div>
+<h4 align="center">──────────────────────── Product ────────────────────────</h4>
 
 <div align="center">
 
