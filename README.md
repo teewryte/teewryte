@@ -253,49 +253,10 @@ current_focus = {
 
 ---
 
-<div align="center">
-
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,50:1e6091,100:0D1117&height=120&section=footer" width="100%"/>
-
-<br/>
-
-*"Start with the user problem. And let that decide the engineering, not the other way around."*
-
-<br/>
-
-**Open to collaborations on products that solve real problems for real people.**
-
-</div>
-
-
-
----
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,50:1e6091,100:0D1117&height=180&section=footer&text=Open%20to%20Collaborate&fontSize=28&fontColor=ffffff&fontAlignY=40&desc=On%20products%20that%20solve%20real%20problems%20for%20real%20people&descAlignY=62&descSize=16&descColor=ffffff" width="100%"/>
-</div>
-
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,50:1e6091,100:0D1117&height=120&section=footer&text=%22Start%20with%20the%20user%20problem,%20let%20that%20decide%20the%20engineering%2C%20not%20the%20other%20way%20around.%22&fontSize=14&fontColor=ffffff&fontAlignY=40&desc=Open%20to%20collaborations%20on%20products%20that%20solve%20real%20problems%20for%20real%20people.&descAlignY=7&descSize=14&descColor=ffffff" width="100%"/>
-</div>
-
-
----
-
-
-<div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,50:1e6091,100:0D1117&height=120&section=footer&text=Open%20to%20collaborations%20on%20products%20that%20solve%20real%20problems%20for%20real%20people.&fontSize=14&fontColor=ffffff&fontAlignY=20&desc=%C2%A9%202026%20Theophilus%20Uwoghiren&descAlignY=60&descSize=14&descColor=ffffff" width="100%"/>
 </div>
 
-
----
-
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,50:1e6091,100:0D1117&height=120&section=footer&text=%C2%A9%202026%20Theophilus%20Uwoghiren&fontSize=14&fontColor=ffffff&fontAlignY=60&desc=Open%20to%20collaborations%20on%20products%20that%20solve%20real%20problems%20for%20real%20people.&descAlignY=7&descSize=14&descColor=ffffff" width="100%"/>
-</div>
 
