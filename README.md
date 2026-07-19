@@ -54,7 +54,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 ---
 
 ##  Technologies I'm Learning & Building With
-#### Product
+#### Product  ────────────────────────────────────────────
 <div align="center">
 
 <img src="https://img.shields.io/badge/Product%20Strategy-1C3C3C?style=for-the-badge&logoColor=4ade80"/>
@@ -64,7 +64,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 
 </div>
 
-#### UX
+#### UX  ────────────────────────────────────────────
 
 <div align="center">
 
@@ -76,7 +76,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 
 </div>
 
-#### Frontend
+#### Frontend  ────────────────────────────────────────────
 
 <div align="center">
 
@@ -88,7 +88,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 
 </div>
 
-#### Cross-Platform
+#### Cross-Platform  ────────────────────────────────────────────
 
 <div align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -96,7 +96,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 
 </div>
 
-#### Backend
+#### Backend  ────────────────────────────────────────────
 
 <div align="center">
 
@@ -105,11 +105,9 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-<br/>
-◆ ─────────────────────────────────────── ◆
 </div>
 
-#### Database
+#### Database  ────────────────────────────────────────────
 
 <div align="center">
 
@@ -122,7 +120,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 
 </div>
 
-#### AI
+#### AI  ────────────────────────────────────────────
 
 <div align="center">
 
@@ -139,7 +137,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 </div>
 
 
-#### Tools
+#### Tools  ────────────────────────────────────────────
 <div align="center">
   
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
