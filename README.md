@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=false&width=800&lines=Product+Strategy+%E2%80%A2+Design+%E2%80%A2+Engineering+%E2%80%A2+AI%2FML;I+build+products+for+real+users;React+%E2%80%A2+Flutter+%E2%80%A2+FastAPI+%E2%80%A2+LLM+Systems+%E2%80%A2+Agentic+AI;Engineering+is+the+answer.+I+start+with+the+user%27s+question%2C+not+mine." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=false&width=900&lines=Product+Strategy+%E2%80%A2+Design+%E2%80%A2+Engineering+%E2%80%A2+AI%2FML;I+build+products+for+real+users;React+%E2%80%A2+Flutter+%E2%80%A2+FastAPI+%E2%80%A2+LLM+Systems+%E2%80%A2+Agentic+AI;Engineering+is+the+answer.+I+start+with+the+user%27s+question%2C+not+mine." alt="Typing SVG" />
 </a>
 
 <br/>
