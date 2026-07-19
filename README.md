@@ -280,5 +280,5 @@ current_focus = {
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,50:1e6091,100:0D1117&height=120&section=footer&text=%22Start%20with%20the%20user%20problem,%20let%20that%20decide%20the%20engineering%2C%20not%20the%20other%20way%20around.%22&fontSize=14&fontColor=ffffff&fontAlignY=40&desc=Open%20to%20collaborations%20on%20products%20that%20solve%20real%20problems%20for%20real%20people.&descAlignY=26&descSize=14&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,50:1e6091,100:0D1117&height=120&section=footer&text=%22Start%20with%20the%20user%20problem,%20let%20that%20decide%20the%20engineering%2C%20not%20the%20other%20way%20around.%22&fontSize=14&fontColor=ffffff&fontAlignY=40&desc=Open%20to%20collaborations%20on%20products%20that%20solve%20real%20problems%20for%20real%20people.&descAlignY=1&descSize=14&descColor=ffffff" width="100%"/>
 </div>
