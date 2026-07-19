@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=false&width=700&lines=Product+Strategy+%E2%80%A2+Design+%E2%80%A2+Engineering+%E2%80%A2+AI%2FML;I+build+products+for+real+users;React+%E2%80%A2+Flutter+%E2%80%A2+FastAPI+%E2%80%A2+LLM+Systems+%E2%80%A2+Agentic+AI;Working+backwards+from+what+users+actually+need;Outcomes+over+implementation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=false&width=700&lines=Product+Strategy+%E2%80%A2+Design+%E2%80%A2+Engineering+%E2%80%A2+AI%2FML;I+build+products+for+real+users;React+%E2%80%A2+Flutter+%E2%80%A2+FastAPI+%E2%80%A2+LLM+Systems+%E2%80%A2+Agentic+AI;Start+with+the+user+problem.+And+let+that+decide+the+engineering" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,7 +32,7 @@
 name        : Theophilus Uwoghiren
 role        : Product Engineer
 focus       : Product Strategy · Product Design · Product Engineering · AI/ML
-mindset     : Work backwards from what users need. Then engineer everything in between.
+mindset     : Start with the user problem. And let that decide the engineering, not the other way around
 approach    : Outcomes over implementation. Users over abstractions. Impact over activity
 ```
 
@@ -242,15 +242,14 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 ---
 
-## Currently Building
+## What I'm Working On  
 
 ```python
-now = {
-    "shipping"  : "AI-powered product — React frontend · FastAPI backend · LLM reasoning layer",
-    "designing" : "Design system in Figma → React component library → Flutter port",
-    "exploring" : "Agentic RAG with long-term episodic memory for user-facing products",
-    "learning"  : "Product analytics: funnel modelling, retention curves, causal inference",
-    "reading"   : "Continuous Discovery Habits (Teresa Torres) · The Mom Test (Rob Fitzpatrick)"
+current_focus = {
+    "shipping"  : "AI features users didn't ask for but needed",
+    "designing" : "Systems that hold up across edge cases, not just happy paths",
+    "learning"  : "Continuous discovery over quarterly roadmaps",
+    "exploring" : "Giving agents memory that survives a session"
 }
 ```
 
@@ -263,7 +262,7 @@ now = {
 
 <br/>
 
-*"Work backwards from what users need. Then engineer everything in between."*
+*"Start with the user problem. And let that decide the engineering, not the other way around."*
 
 <br/>
 
