@@ -22,7 +22,7 @@
 </a>
 &nbsp;
 <a href="https://peerlist.io/teewryte">
-  <img src="https://github-readme-badge.peerlist.io/api/teewryte" alt="Peerlist"/>
+  <img src="https://img.shields.io/badge/Peerlist-Follow-27AE60?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist"/>
 </a>
 
 </div>
