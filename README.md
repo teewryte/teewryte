@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d62,60:1e6091,100:2ecc71&height=200&section=header&text=Theophilus%20Uwoghiren&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Technical%20Product%20Manager%20%2F%20Product%20Engineer&descSize=18&descAlignY=60&descColor=a8d8a8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d62,60:1e6091,100:2ecc71&height=200&section=header&text=Theophilus%20Uwoghiren&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Product%20Manager%20%2F%20Product%20Builder&descSize=18&descAlignY=60&descColor=a8d8a8&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -34,7 +34,7 @@ mindset     : Start with the user problem, let that decide the engineering, not 
 approach    : Outcomes over implementation. Users over abstractions. Impact over activity
 ```
 
-I'm a **Technical Product Manager and Product Engineer**, I own the full arc of what makes a product successful. I think about *why* something should be built, *how* it should feel to use, and *what* it takes to ship it reliably. I work across four interconnected pillars: shaping product strategy, crafting thoughtful design, engineering robust full-stack systems, and embedding AI intelligence where it creates the most leverage. What matters to me isn't whether the build ships, it's whether it actually improves things for the people using it.
+I'm a **Product Manager and Product Builder**, I own the full arc of what makes a product successful. I think about *why* something should be built, *how* it should feel to use, and *what* it takes to ship it reliably. I work across four interconnected pillars: shaping product strategy, crafting thoughtful design, engineering robust full-stack systems, and embedding AI intelligence where it creates the most leverage. What matters to me isn't whether the build ships, it's whether it actually improves things for the people using it.
 
 ---
 
