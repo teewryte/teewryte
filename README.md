@@ -21,8 +21,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href=https://github-readme-badge.peerlist.io/api/teewryte)](https://peerlist.io/teewryte)>
+<a href="https://github-readme-badge.peerlist.io/api/teewryte)](https://peerlist.io/teewryte)">
 </a>
+
 </div>
 
 
