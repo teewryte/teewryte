@@ -38,16 +38,16 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 
 ---
 
-## Domains
+## Areas I'm Building In
 
 <div align="center">
 
 | Domain | Focus Areas |
 |:---|:---|
-| **Product Strategy** | Discovery, user research, roadmaps, prioritisation, product metrics |
-| **Product Design** | UI/UX, design systems, wireframing, prototyping, accessibility |
-| **Product Engineering** | HTML, CSS, JavaScript, React, Flutter, Python, APIs, databases |
-| **AI / ML** | Machine Learning, LLMs, AI-assisted applications, prompt engineering |
+| **Product Management** | Product discovery, strategy, user research, roadmapping, prioritization, metrics |
+| **Product Design** | UX research, UI/UX, prototyping, design systems, accessibility |
+| **Software Development** | Web, mobile, backend development, APIs, databases |
+| **AI / ML** | ML, LLM applications, AI-assisted product development |
 
 </div>
 
@@ -63,6 +63,12 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maze-6E40C9?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zeroheight-1A1A2E?style=for-the-badge&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Product%20Strategy-0D1117?style=for-the-badge&logoColor=4ade80"/>
+<img src="https://img.shields.io/badge/User%20Research-0D1117?style=for-the-badge&logoColor=4ade80"/>
+<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 
 </div>
 
