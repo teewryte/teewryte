@@ -56,7 +56,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 ##  Technologies I'm Learning & Building With
 
 <h4 align="center">──────────────────────── Product ────────────────────────</h4>
-
+<br/>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Product%20Strategy-1C3C3C?style=for-the-badge&logoColor=4ade80"/>
@@ -67,7 +67,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 </div>
 
 <h4 align="center">──────────────────────── UX ────────────────────────</h4>
-
+<br/>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -79,7 +79,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 </div>
 
 <h4 align="center">──────────────────────── Frontend ────────────────────────</h4>
-
+<br/>
 <div align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -91,7 +91,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 </div>
 
 <h4 align="center">──────────────────────── Cross-Platform ────────────────────────</h4>
-
+<br/>
 <div align="center">
   
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -100,7 +100,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 </div>
 
 <h4 align="center">──────────────────────── Backend ────────────────────────</h4>
-
+<br/>
 <div align="center">
   
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -111,7 +111,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 </div>
 
 <h4 align="center">──────────────────────── Database ────────────────────────</h4>
-
+<br/>
 <div align="center">
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -124,7 +124,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 </div>
 
 <h4 align="center">──────────────────────── AI ────────────────────────</h4>
-
+<br/>
 <div align="center">
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -140,7 +140,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 </div>
 
 <h4 align="center">──────────────────────── Tools ────────────────────────</h4>
-
+<br/>
 <div align="center">
   
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
