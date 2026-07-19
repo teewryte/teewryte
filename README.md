@@ -63,7 +63,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 <img src="https://img.shields.io/badge/User%20Research-1C3C3C?style=for-the-badge&logoColor=4ade80"/>
 <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-
+<br/>
 </div>
 
 <h4 align="center">──────── UX ────────</h4>
@@ -75,7 +75,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
 <img src="https://img.shields.io/badge/Miro-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maze-6E40C9?style=for-the-badge&logoColor=white"/>
-
+<br/>
 </div>
 
 <h4 align="center">──────── Frontend ────────</h4>
@@ -87,7 +87,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-
+<br/>
 </div>
 
 <h4 align="center">──────── Cross-Platform ────────</h4>
@@ -96,7 +96,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
   
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-
+<br/>
 </div>
 
 <h4 align="center">──────── Backend ────────</h4>
@@ -107,7 +107,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
+<br/>
 </div>
 
 <h4 align="center">──────── Database ────────</h4>
@@ -120,7 +120,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
 
-
+<br/>
 </div>
 
 <h4 align="center">──────── AI ────────</h4>
@@ -136,7 +136,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anthropic%20API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
+<br/>
 </div>
 
 <h4 align="center">──────── Tools ────────</h4>
@@ -148,7 +148,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
+<br/>
 </div>
 
 
