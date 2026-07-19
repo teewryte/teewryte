@@ -40,7 +40,7 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 ---
 
-## Domain
+## Domains
 
 <div align="center">
 
