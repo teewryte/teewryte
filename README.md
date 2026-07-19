@@ -267,3 +267,11 @@ current_focus = {
 **Open to collaborations on products that solve real problems for real people.**
 
 </div>
+
+
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,50:1e6091,100:0D1117&height=180&section=footer&text=Open%20to%20Collaborate&fontSize=28&fontColor=ffffff&fontAlignY=40&desc=On%20products%20that%20solve%20real%20problems%20for%20real%20people&descAlignY=62&descSize=16&descColor=ffffff" width="100%"/>
+</div>
