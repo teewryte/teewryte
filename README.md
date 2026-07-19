@@ -15,9 +15,13 @@
 &nbsp;
 <a href="mailto:theo.uwoghiren@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-2ecc71?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>  <a href="https://linkedin.com/in/teewryte">
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/teewryte">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>  <a href="https://peerlist.io/teewryte">
+</a>
+&nbsp;
+<a href="https://peerlist.io/teewryte">
   <img src="https://img.shields.io/badge/Peerlist-Follow-27AE60?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist"/>
 </a>
 
