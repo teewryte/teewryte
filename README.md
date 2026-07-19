@@ -166,9 +166,9 @@ I'm a **Product Engineer**, I own the full arc of what makes a product successfu
 
 ---
 
-## AI / ML
+## AI
 
-#### Core ML / Data Science
+#### Core ML
 
 <div align="center">
 
