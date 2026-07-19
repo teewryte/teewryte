@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3300&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=false&width=900&lines=Product+Strategy+%E2%80%A2+Design+%E2%80%A2+Engineering+%E2%80%A2+AI%2FML;I+build+products+for+real+users;Engineering+is+the+answer.+I+start+with+the+user%27s+question%2C+not+mine." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3300&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=false&width=900&lines=Product+Management+%E2%80%A2+Design+%E2%80%A2+Engineering+%E2%80%A2+AI%2FML;Building+products+that+solve+real+problems;Start+with+the+user.+Build+with+purpose%27s+question%2C+not+mine." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,13 +28,13 @@
 
 ```yaml
 name        : Theophilus Uwoghiren
-role        : Technical Product Manager / Product Engineer
+role        : Product Manager / Product Builder
 focus       : Product Strategy · Product Design · Product Engineering · AI/ML
 mindset     : Start with the user problem, let that decide the engineering, not the other way around
 approach    : Outcomes over implementation. Users over abstractions. Impact over activity
 ```
 
-I'm a **Product Manager and Product Builder**, I own the full arc of what makes a product successful. I think about *why* something should be built, *how* it should feel to use, and *what* it takes to ship it reliably. I work across four interconnected pillars: shaping product strategy, crafting thoughtful design, engineering robust full-stack systems, and embedding AI intelligence where it creates the most leverage. What matters to me isn't whether the build ships, it's whether it actually improves things for the people using it.
+I'm a **Product Manager and Product Builder** passionate about turning customer problems into successful products. I enjoy discovering user needs, defining product strategy, prioritizing what matters most, and collaborating to deliver solutions that create measurable value. To better understand the products I lead, I also build web and mobile applications, combining product thinking with design, software development, and AI to bring ideas from concept to reality.
 
 ---
 
@@ -44,10 +44,10 @@ I'm a **Product Manager and Product Builder**, I own the full arc of what makes 
 
 | Domain | Focus Areas |
 |:---|:---|
-| **Product Strategy** | Discovery, user research, roadmaps, prioritisation, metrics, growth |
-| **Product Design** | UI/UX, design systems, prototyping, accessibility, interaction design |
-| **Product Engineering** | React, Flutter, FastAPI, databases, DevOps, system architecture |
-| **AI / ML** | ML systems, LLMs, Agentic AI, RAG pipelines, MLOps |
+| **Product Strategy** | Discovery, user research, roadmaps, prioritisation, product metrics |
+| **Product Design** | UI/UX, design systems, wireframing, prototyping, accessibility |
+| **Product Engineering** | HTML, CSS, JavaScript, React, Flutter, Python, APIs, databases |
+| **AI / ML** | Machine Learning, LLMs, AI-assisted applications, prompt engineering |
 
 </div>
 
