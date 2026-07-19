@@ -66,9 +66,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 
 </div>
 
-<div align="center">
-#### ──────────────────────── UX  ────────────────────────
-</div>
+<h4 align="center">──────────────────────── UX ────────────────────────</h4>
 
 <div align="center">
 
@@ -80,9 +78,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 
 </div>
 
-<div align="center">
-#### ──────────────────────── Frontend  ────────────────────────
-</div>
+<h4 align="center">──────────────────────── Frontend ────────────────────────</h4>
 
 <div align="center">
 
@@ -94,9 +90,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 
 </div>
 
-<div align="center">
-#### ──────────────────────── Cross-Platform  ────────────────────────
-</div>
+<h4 align="center">──────────────────────── Cross-Platform ────────────────────────</h4>
 
 <div align="center">
   
@@ -105,9 +99,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 
 </div>
 
-<div align="center">
-#### ──────────────────────── Backend  ────────────────────────
-</div>
+<h4 align="center">──────────────────────── Backend ────────────────────────</h4>
 
 <div align="center">
   
@@ -118,9 +110,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 
 </div>
 
-<div align="center">
-#### ──────────────────────── Database  ────────────────────────
-</div>
+<h4 align="center">──────────────────────── Database ────────────────────────</h4>
 
 <div align="center">
 
@@ -133,9 +123,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 
 </div>
 
-<div align="center">
-#### ──────────────────────── AI  ────────────────────────
-</div>
+<h4 align="center">──────────────────────── AI ────────────────────────</h4>
 
 <div align="center">
 
@@ -151,10 +139,7 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 
 </div>
 
-<div align="center">
-
-#### ──────────────────────── Tools  ────────────────────────
-</div>
+<h4 align="center">──────────────────────── Tools ────────────────────────</h4>
 
 <div align="center">
   
