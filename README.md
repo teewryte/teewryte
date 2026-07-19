@@ -30,11 +30,11 @@
 name        : Theophilus Uwoghiren
 role        : Technical Product Manager / Product Engineer
 focus       : Product Strategy · Product Design · Product Engineering · AI/ML
-mindset     : Start with the user problem. And let that decide the engineering, not the other way around
+mindset     : Start with the user problem, let that decide the engineering, not the other way around
 approach    : Outcomes over implementation. Users over abstractions. Impact over activity
 ```
 
-I'm a **Product Engineer**, I own the full arc of what makes a product successful. I don't just write code; I think about *why* something should be built, *how* it should feel to use, and *what* it takes to ship it reliably. Then I build it. I work across four interconnected pillars: shaping product strategy, crafting thoughtful design, engineering robust full-stack systems, and embedding AI intelligence where it creates the most leverage. I care about the impact of what I ship on the people who use it, not just whether the build passes.
+I'm a **Technical Product Manager and Product Engineer**, I own the full arc of what makes a product successful. I think about *why* something should be built, *how* it should feel to use, and *what* it takes to ship it reliably. I work across four interconnected pillars: shaping product strategy, crafting thoughtful design, engineering robust full-stack systems, and embedding AI intelligence where it creates the most leverage. What matters to me isn't whether the build ships, it's whether it actually improves things for the people using it.
 
 ---
 
