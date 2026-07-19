@@ -54,8 +54,10 @@ I'm a **Product Manager and Product Builder** passionate about turning customer 
 ---
 
 ##  Technologies I'm Learning & Building With
-#### Product  ────────────────────────────────────────────
+
 <div align="center">
+
+#### Product  ────────────────────────────────────────────
 
 <img src="https://img.shields.io/badge/Product%20Strategy-1C3C3C?style=for-the-badge&logoColor=4ade80"/>
 <img src="https://img.shields.io/badge/User%20Research-1C3C3C?style=for-the-badge&logoColor=4ade80"/>
